@@ -1,0 +1,11 @@
+.cart {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+.cart button {
+  margin-left: 10px;
+  padding: 5px 10px;
+}
